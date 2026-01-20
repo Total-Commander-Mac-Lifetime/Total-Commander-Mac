@@ -1,6 +1,6 @@
 # Total Commander Mac 
 
-<img src="https://w7.pngwing.com/pngs/860/860/png-transparent-total-commander-android-file-manager-computer-icons-vinyl-disk-blue-angle-text.png" width="200" alt="App icon" align="left"/>
+<img src="https://icons.iconarchive.com/icons/hopstarter/3d-cartoon-vol2/256/Total-Commander-icon.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Total Commander macOS</h3>
@@ -67,7 +67,7 @@ Regular updates ensure Total Commander maintains compatibility with the latest m
 ## Visual Gallery
 
 <p align="center">
-  <img src="https://mac.eltima.com/wp-content/uploads/2024/01/commander_dark@2x-1024x621.jpg" width="824" alt="Total Commander interface"/>
+  <img src="https://yablyk.com/wp-content/uploads/2015/01/DCommander-1.jpg" width="824" alt="Total Commander interface"/>
 </p>
 
 ---
